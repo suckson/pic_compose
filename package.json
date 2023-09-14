@@ -1,0 +1,17 @@
+{
+  "name": "data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-code-converter": "^0.1.4",
+    "colorthief": "^2.4.0",
+    "dirfile": "^1.0.2",
+    "sharp": "^0.32.5"
+  }
+}
